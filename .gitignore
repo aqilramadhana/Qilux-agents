@@ -1,0 +1,69 @@
+# ===== Rahasia (JANGAN PERNAH di-commit) =====
+.env
+.env.*
+*.env
+.env.local
+telegram.json
+config.json
+hosts.json
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.netrc
+.git-credentials
+
+# ===== Data runtime Qilux (folder ~/.qilux) =====
+.qilux/
+.myosa/
+bans.json
+shield.json
+shield.log
+persist.json
+health*.json
+daemon.pid
+history
+sessions/
+undo/
+backup/
+plugins/
+*.rusak
+*.before-rollback
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+qilux-env/
+myosa-env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ===== Log dan sementara =====
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+nohup.out
+
+# ===== Editor dan OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.directory
+
+# ===== Termux / Android =====
+.termux/
+storage/
