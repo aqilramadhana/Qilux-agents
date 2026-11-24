@@ -265,7 +265,7 @@ Kedalaman berpikir diatur terpisah lewat `/deep`:
 
 <img src="https://arr-official.id/uploads/baB2PJ.png" alt="Qilux" width="96">
 
-**QILUX AGENT** · dibuat oleh [Aqill](https://github.com/aqilramadhana) 
+**QILUX AGENT** · dibuat oleh [Aqill](https://github.com/aqilramadhana)
 
 Lisensi [MIT](LICENSE)
 
